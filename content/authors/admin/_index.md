@@ -11,7 +11,7 @@ role: Senior CSE Undergraduate
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Indian Institute of Technology, Bombay
-  #url: https://www.stanford.edu/
+  url: https://www.cse.iitb.ac.in/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Natural Language Processing, Automatic Speech Recognition and Deep Learning.
