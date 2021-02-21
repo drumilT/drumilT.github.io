@@ -62,9 +62,10 @@ email: ""
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
+---
+
 Drumil Trivedi is a research assistant at Indian Institute of Technology, Bombay. His research interests include Artificial Intelligence, Natural Language Processing and Speech Procesing. He is inclined towards algorithmic thinking and problem solving. He is affliated with both <a href="http://www.cfilt.iitb.ac.in/">CFILT</a> and <a href="https://www.cse.iitb.ac.in/~pjyothi/csalt/">CSALT</a> lab under the guidance of
 <a href="https://www.cse.iitb.ac.in/~pb/">Prof. Pushpak Bhattacharyya</a> and <a href="https://www.cse.iitb.ac.in/~pjyothi/">Prof. Preethi Jyothi</a> on problems involving Speech and NLP.
-
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
